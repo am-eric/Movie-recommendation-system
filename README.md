@@ -1,6 +1,6 @@
 # Movie-recommendation-system
 
- ![alt text]()
+ ![alt text](images/mrs 1.jpg)
 
 
 ## Summary
@@ -49,22 +49,22 @@ The project will utilize the [MovieLens dataset](https://grouplens.org/datasets/
 
 1. **UVA**:Distribution of Ratings.
 4.0 and 5.0 are the most frequent ratings with ratings count of 60933 and 59645 respectively.
-![Ratings distribution]()
+![Ratings distribution](images/ratings dist image.png)
 
 2. **UVA**:Top 10 Genres.
 Drama, Thriller and Crime are the top 3 movie Genres wihle Fantasy has the lowest count.
-![Top 10 Genres]()
+![Top 10 Genres](images/Genres count image.png)
 
 3. **BVA**:Top 10 Most Rated Movies.
 Pulp Fiction(1994) is the most rated movie with the higest rate count of above 50000.
-![Top 10 most rated movies]()
+![Top 10 most rated movies](images/ratings count per movie.png)
 
 4. **BVA**:Top 20 Highest Rated Movies.
-![Top 20 highest rated movies]()
+![Top 20 highest rated movies](images/movies with higest ratings.png)
 
 5. **BVA**:Average Rating per Genre.
 Crime | War | Thriller | Drama | Film-Noir - are the top rated genres, with an average of **4.0+**     
-![Average rating per genre]()
+![Average rating per genre](images/rating per genre image.png)
 
 ## Modeling
 
