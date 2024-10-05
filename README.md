@@ -5,6 +5,8 @@
 
 ## Summary
 
+
+
 ## Project Overview
 This project aims to enhance user experience on a streaming platform by developing a personalized movie recommendation system. We will leverage the [MovieLens dataset](https://grouplens.org/datasets/movielens/latest/), created by GroupLens, a research group in the Department of Computer Science and Engineering at the University of Minnesota. Since its inception in 1992, GroupLens has focused on various fields including: 
 
@@ -60,7 +62,7 @@ Pulp Fiction(1994) is the most rated movie with the higest rate count of above 5
 ![Top 10 most rated movies](images/ratingscountpermovie.png)
 
 4. **BVA**:Top 20 Highest Rated Movies.
-![Top 20 highest rated movies](images/movieswithhigest ratings.png)
+![Top 20 highest rated movies](images/movieswithhigestratings.png)
 
 5. **BVA**:Average Rating per Genre.
 Crime | War | Thriller | Drama | Film-Noir - are the top rated genres, with an average of **4.0+**     
