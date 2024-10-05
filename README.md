@@ -1,6 +1,6 @@
 # Movie-recommendation-system
 
- ![alt text](images/mrs 1.jpg)
+ ![alt text](images/mrs1.jpg)
 
 
 ## Summary
