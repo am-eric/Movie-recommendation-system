@@ -1,5 +1,8 @@
 # Movie-recommendation-system
 
+ ![alt text]()
+
+
 ## Summary
 
 ## Project Overview
@@ -42,8 +45,31 @@ The project will utilize the [MovieLens dataset](https://grouplens.org/datasets/
 - **Tags.csv**: Contains tags applied to movies by users, providing additional context for content-based filtering.
 
 ## Exploratory Data Analysis
+- This consists of a Univariate analysis(UVA) and Bivariate analysis(BVA) of the dataset:
+
+1. **UVA**:Distribution of Ratings.
+4.0 and 5.0 are the most frequent ratings with ratings count of 60933 and 59645 respectively.
+![Ratings distribution]()
+
+2. **UVA**:Top 10 Genres.
+Drama, Thriller and Crime are the top 3 movie Genres wihle Fantasy has the lowest count.
+![Top 10 Genres]()
+
+3. **BVA**:Top 10 Most Rated Movies.
+Pulp Fiction(1994) is the most rated movie with the higest rate count of above 50000.
+![Top 10 most rated movies]()
+
+4. **BVA**:Top 20 Highest Rated Movies.
+![Top 20 highest rated movies]()
+
+5. **BVA**:Average Rating per Genre.
+Crime | War | Thriller | Drama | Film-Noir - are the top rated genres, with an average of **4.0+**     
+![Average rating per genre]()
 
 ## Modeling
+
+
+
 
 ## Conclusion
 - KNNBasic offers a simple yet effective baseline but suffers from moderate prediction errors. The model fails to deliver consistent performance, particularly for cold-start users and popular movies.
