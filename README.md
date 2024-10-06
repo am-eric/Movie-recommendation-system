@@ -13,6 +13,7 @@
 
 **Evaluation** : The final model, SVD, performed best with an RMSE of 0.2465 and an MAE of 0.191. Evaluation was done using 5-fold cross-validation to ensure model robustness, with average RMSE and MAE values calculated across different data subsets to minimize overfitting. This combination of collaborative filtering and content-based methods provides accurate, personalized recommendations for users.
 
+View the presentation slides for the project [here](https://www.canva.com/design/DAGSyY7Bwzs/0SuFRjpfPWxoaitGtmCvtA/edit?utm_content=DAGSyY7Bwzs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Project Overview
 This project aims to enhance user experience on a streaming platform by developing a personalized movie recommendation system. Leveraging the [MovieLens dataset](https://grouplens.org/datasets/movielens/latest/), created by GroupLens.
