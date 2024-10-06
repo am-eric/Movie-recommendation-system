@@ -5,6 +5,13 @@
 
 ## Summary
 
+**Business and data understanding:** The project aims to build a movie recommendation system using the MovieLens dataset, containing 230,000 rows of user ratings and movie metadata (genres, titles). This data is ideal for addressing the business need of personalized movie recommendations, leveraging both user behavior and movie characteristics.
+
+**Data preparation** : For data preparation, the dataset was merged and reduced to 100,000 rows to enhance computational efficiency. Missing values were handled, and outliers removed to ensure data quality. Libraries like Pandas and NumPy were used for data processing.
+
+**Modeling**: The modeling phase involved collaborative filtering using the Surprise library and content-based filtering via Scikit-learn. Collaborative models included KNNBasic, KNN with Means, KNN Baseline, and SVD, while the content-based model used vectorized movie genres and titles. SVD was selected for matrix factorization, and hyperparameters were tuned using grid search.
+
+**Evaluation** : The final model, SVD, performed best with an RMSE of 0.2465 and an MAE of 0.191. Evaluation was done using 5-fold cross-validation to ensure model robustness, with average RMSE and MAE values calculated across different data subsets to minimize overfitting. This combination of collaborative filtering and content-based methods provides accurate, personalized recommendations for users.
 
 
 ## Project Overview
