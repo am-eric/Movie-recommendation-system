@@ -132,3 +132,4 @@ The goal was to reduce the RMSE and MAE of the models to get the best fit model.
 
 - Diversity in Recommendations: Consider implementing a diversity factor to avoid repetitive suggestions, ensuring users are exposed to a broader range of movies.
 
+## For further analysis of the dataset,you can checkout the [Notebook here](analysis.ipynb)
